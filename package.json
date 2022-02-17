@@ -1,0 +1,16 @@
+{
+  "name": "truepill",
+  "version": "1.0.0",
+  "description": "Truepill - Reece Ward",
+  "main": "svr.js",
+  "author": "Reece Ward",
+  "dependencies": {
+    "express": "^4.17.2",
+    "file-system": "^2.2.2",
+    "readline-sync": "^1.4.10",
+    "require": "^2.4.20"
+  },
+  "scripts": {
+    "start": "node truepillapp.js"
+  }
+}
